@@ -39,6 +39,9 @@
 - `opencv-python` (Για τη διαχείριση των εικόνων και βίντεο)
 - `sklearn` (Για το μοντέλο Random Forest)
 
-## Heatmap : 
+## Heatmap test 1 : 
 ![HEATMAP RANDOM FORST](https://github.com/it2021123/randomforest_diagnosis/blob/main/Figure_1.png)
+## Heatmap test 2 : 
+![HEATMAP RANDOM FORST](https://github.com/it2021123/randomforest_diagnosis/blob/batch-test/Figure_2.png)
+
 

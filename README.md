@@ -42,6 +42,6 @@
 ## Heatmap test 1 : 
 ![HEATMAP RANDOM FORST](https://github.com/it2021123/randomforest_diagnosis/blob/main/Figure_1.png)
 ## Heatmap test 2 : 
-![HEATMAP RANDOM FORST](https://github.com/it2021123/randomforest_diagnosis/blob/batch-test/Figure_2.png)
+![HEATMAP RANDOM FORST](https://github.com/it2021123/randomforest_diagnosis/blob/it2021123-patch-test/Figure_2.png)
 
 

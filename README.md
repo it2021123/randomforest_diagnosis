@@ -39,8 +39,6 @@
 - `opencv-python` (Για τη διαχείριση των εικόνων και βίντεο)
 - `sklearn` (Για το μοντέλο Random Forest)
 
-## Οδηγίες Εκτέλεσης
+## Heatmap : 
+![HEATMAP RANDOM FORST](https://github.com/it2021123/randomforest_diagnosis/blob/main/Figure_1.png)
 
-1. Κλωνοποιήστε το αποθετήριο:
-   ```bash
-   git clone https://github.com/username/randomforest_diagnosis.git

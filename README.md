@@ -50,6 +50,8 @@
  Mε το hold-out validation  προβλέπουμε πάθηση  ενός ασθενή που έχουμε ήδη στο test set κατι που αυξάνει την ευστοχία του αντικειμένου ,λόγο υπερπροσαρμογής . Με το LOSO validation αντιμετοπίζουμε το προβλημε του ovefitting ,καθώς για καθέ ασθένια παίρνουμε ένα άτομα με όλες τις ακολουθίες απο dataset και το χρησιμοποιούμε για test_set .Επομένως, αυτά τα δείγματα δε χρεισιμοποιούνται  στο train_test .
 
 **Aποτελέσματα random forest με LOSO validation
-![RESULTS](https://github.com/it2021123/randomforest_diagnosis/blob/it2021123-failure/RES.png)
+![RESULTS](https://github.com/it2021123/randomforest_diagnosis/blob/it2021123-failure/RES.jpg)
+
+Επομένως το μοντέλο μας δεν μπορει να κάνει καν μια σωστή πρόβλεψη .
 
 
